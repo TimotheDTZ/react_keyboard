@@ -1,0 +1,33 @@
+.boutons {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2vh;
+    width: 65vw;
+}
+
+button {
+    background-color: var(--color-primary);
+    color: white;
+    border-radius: 50%;
+    border: 2px solid var(--color-primary);
+    margin-right: 1vw;
+    margin-top: 1vw;
+    height: 10vh;
+    width: 5vw;
+    text-align: center;
+    font-family: sans-serif !important;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.icon {
+    background-color: var(--color-primary);
+    border-radius: 50%;
+    width: 2.5vw;
+    height: 5vh;
+    color: white;
+    padding: 1%;
+}

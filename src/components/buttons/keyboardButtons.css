@@ -1,0 +1,20 @@
+.buttons-actions {
+    width: 15vw;
+    height: 8vh;
+    margin-left: 2vw;
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    font-family: sans-serif !important;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.group-buttons {
+    width: 60vw;
+    margin-top: 4vh;
+}

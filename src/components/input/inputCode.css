@@ -1,0 +1,27 @@
+input {
+    width: 65vw;
+    height: 7vh;
+    border-radius: 35px;
+    border: solid 2px white;
+    border-color: white;
+    padding-top: 1vh;
+    padding-left: 3vw;
+}
+
+#code::placeholder {
+    color: var(--color-primary);
+    font-family: sans-serif !important;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+#code {
+    color: var(--color-primary);
+    font-family: sans-serif !important;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
